@@ -1,0 +1,30 @@
+[06-Jun-2020 07:03:15 UTC] PHP Fatal error:  Uncaught Error: Call to protected method Perhitungan::cekCell() from context '' in /home/denidarmayana/spk.denidarmayana.online/user/responden-simpan.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/denidarmayana/spk.denidarmayana.online/user/responden-simpan.php on line 26
+[06-Jun-2020 07:03:42 UTC] PHP Fatal error:  Uncaught Error: Call to protected method Perhitungan::cekCell() from context '' in /home/denidarmayana/spk.denidarmayana.online/user/responden-simpan.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/denidarmayana/spk.denidarmayana.online/user/responden-simpan.php on line 26
+[06-Jun-2020 07:05:14 UTC] PHP Fatal error:  Uncaught Error: Call to protected method Perhitungan::cekCell() from context '' in /home/denidarmayana/spk.denidarmayana.online/user/responden-simpan.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/denidarmayana/spk.denidarmayana.online/user/responden-simpan.php on line 26
+[06-Jun-2020 12:14:48 UTC] PHP Notice:  Undefined variable: resilt in /home/denidarmayana/spk.denidarmayana.online/user/responden-simpan.php on line 35
+[06-Jun-2020 12:14:48 UTC] PHP Notice:  Trying to get property 'total' of non-object in /home/denidarmayana/spk.denidarmayana.online/user/responden-simpan.php on line 35
+[06-Jun-2020 12:14:48 UTC] PHP Notice:  Undefined variable: resilt in /home/denidarmayana/spk.denidarmayana.online/user/responden-simpan.php on line 35
+[06-Jun-2020 12:14:48 UTC] PHP Notice:  Trying to get property 'total' of non-object in /home/denidarmayana/spk.denidarmayana.online/user/responden-simpan.php on line 35
+[06-Jun-2020 12:14:48 UTC] PHP Notice:  Undefined variable: resilt in /home/denidarmayana/spk.denidarmayana.online/user/responden-simpan.php on line 35
+[06-Jun-2020 12:14:48 UTC] PHP Notice:  Trying to get property 'total' of non-object in /home/denidarmayana/spk.denidarmayana.online/user/responden-simpan.php on line 35
+[06-Jun-2020 12:14:48 UTC] PHP Notice:  Undefined variable: resilt in /home/denidarmayana/spk.denidarmayana.online/user/responden-simpan.php on line 35
+[06-Jun-2020 12:14:48 UTC] PHP Notice:  Trying to get property 'total' of non-object in /home/denidarmayana/spk.denidarmayana.online/user/responden-simpan.php on line 35
+[06-Jun-2020 12:14:48 UTC] PHP Notice:  Undefined variable: resilt in /home/denidarmayana/spk.denidarmayana.online/user/responden-simpan.php on line 35
+[06-Jun-2020 12:14:48 UTC] PHP Notice:  Trying to get property 'total' of non-object in /home/denidarmayana/spk.denidarmayana.online/user/responden-simpan.php on line 35
+[06-Jun-2020 12:14:48 UTC] PHP Notice:  Undefined variable: resilt in /home/denidarmayana/spk.denidarmayana.online/user/responden-simpan.php on line 35
+[06-Jun-2020 12:14:48 UTC] PHP Notice:  Trying to get property 'total' of non-object in /home/denidarmayana/spk.denidarmayana.online/user/responden-simpan.php on line 35
+[06-Jun-2020 13:40:46 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/denidarmayana/spk.denidarmayana.online/user/responden-simpan.php on line 53
+[06-Jun-2020 13:42:40 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/denidarmayana/spk.denidarmayana.online/user/responden-simpan.php on line 53
+[06-Jun-2020 14:34:33 UTC] PHP Notice:  Undefined variable: index in /home/denidarmayana/spk.denidarmayana.online/user/responden-simpan.php on line 45
+[06-Jun-2020 14:36:56 UTC] PHP Notice:  Undefined variable: index in /home/denidarmayana/spk.denidarmayana.online/user/responden-simpan.php on line 45
+[06-Jun-2020 14:37:56 UTC] PHP Notice:  Undefined variable: index in /home/denidarmayana/spk.denidarmayana.online/user/responden-ubah.php on line 45
+[06-Jun-2020 14:44:54 UTC] PHP Notice:  Undefined variable: index in /home/denidarmayana/spk.denidarmayana.online/user/responden-simpan.php on line 45
